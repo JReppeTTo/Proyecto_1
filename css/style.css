@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: seagreen;
+    overflow: hidden;
+}
+
+.navbar a{
+    float: left;
+    text-align: center;
+    padding: 20px;
+}
+
+.header{
+    padding: 80px;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.section_1{
+    padding: 180px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.section_2{
+    padding: 180px;
+    background-color: lightgreen;
+    text-align: center;
+}
+
+.section_3{
+    padding: 180px;
+    background-color: antiquewhite;
+    text-align: center;
+}
