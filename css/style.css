@@ -68,7 +68,62 @@ header{
 }
 header h1{
     font-size: 50px;
-    margin: a;
+    margin-left: 100px;
     
-
 }
+
+header p{
+    margin-left: 200px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+header p1{
+    margin-left: 60px;
+    font-size: 20px;
+    
+}
+header h2{
+    margin-left: 150px;
+    padding: 50px;
+}
+
+section{
+    width: auto;
+    height: 700px;
+    border: 1px solid black;
+    background: red;
+}
+
+.sect1{
+    width: 1100px;
+    height: 700px;
+    margin: auto;
+    border: 1px solid black;
+    background: blue;
+}
+
+.div1{
+    
+    width: 540px;
+    height: 500px;
+    border: 1px solid black;
+    margin-top: 100px;
+    float: left;
+
+    
+}
+.div2{
+    width: 540px;
+    height: 500px;
+    border: 1px solid black;
+    margin-top: 100px;  
+    float: right;
+}
+
+.div1 h1{
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+
+
